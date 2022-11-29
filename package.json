@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkleyClassroom/octogiddy.git"
+  },
+  "author": "KM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkleyClassroom/octogiddy/issues"
+  },
+  "homepage": "https://github.com/MarkleyClassroom/octogiddy#readme",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
